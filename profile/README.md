@@ -1,6 +1,6 @@
 # VoiceForm LT
 
-AI-powered voice solutions for hands-free data entry.
+Offline Lithuanian Speech AI for Voice-Controlled Workflows.
 
 VoiceForm is developing offline Lithuanian speech technologies for voice-controlled form filling, workflow automation, and industrial applications.
 
